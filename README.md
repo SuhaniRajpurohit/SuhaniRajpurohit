@@ -69,7 +69,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github.com/SuhaniRajpurohit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github.com/SuhaniRajpurohit)
 
 
 </div>
