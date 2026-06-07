@@ -16,7 +16,7 @@
 - 🌱 Currently learning **JavaScript (ES6+)**, **React**, and **DSA in C++**
 - 🏗️ Foundation: HTML, CSS, JavaScript, C++ OOP
 - 🎯 Goal: Full Stack Developer with a DevOps mindset
-- 📍 Bikaner, Rajasthan, India
+- 📍 Jaipur, Rajasthan, India
 
 ---
 
