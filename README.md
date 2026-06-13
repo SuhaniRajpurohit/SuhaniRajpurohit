@@ -80,7 +80,7 @@
 
 - [x] HTML & CSS
 - [x] C++ OOP basics
-- [ ] JavaScript — ES6+, async, DOM
+- [x] JavaScript — ES6+, async, DOM
 - [ ] React — components, hooks
 - [ ] Node.js + Express — backend APIs
 - [ ] Databases — MongoDB / PostgreSQL
