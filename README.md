@@ -65,15 +65,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github.com/SuhaniRajpurohit)
-
-
-</div>
-
 ---
 
 ### 🗺️ Learning Roadmap
